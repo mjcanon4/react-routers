@@ -21,3 +21,8 @@ body {
 .navigation-menu li a {
   padding: 0.5rem;
 }
+
+.active {
+  font-weight: bold;
+  color: red;
+}
